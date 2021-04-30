@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/NeedleInTheHaystackTest/v16/TestStore/0
+/NeedleInTheHaystackTest/obj/Debug/net5.0
+/XUnitTest.NeedleIntheHaystack/obj/Debug/net5.0
+/XUnitTest.NeedleIntheHaystack/obj
+/NeedleInTheHaystackTest/obj
+*.v2
+.vs/NeedleInTheHaystackTest/v16/.suo
